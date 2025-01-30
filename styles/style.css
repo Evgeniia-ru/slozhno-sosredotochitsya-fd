@@ -210,6 +210,7 @@
 
 .gallery__images {
   display: grid;
+  padding-block-start: var(--gap-s);
   gap: var(--gap-s);
 }
 
