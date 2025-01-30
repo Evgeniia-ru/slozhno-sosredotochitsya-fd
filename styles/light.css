@@ -26,6 +26,7 @@
 :root.theme-light {
   --bg-img: url("../images/cover-image-light.png");
   --page-bg-color: #fff1f7;
+  --decorated-zone-color: #353430;
   --header-text-color: #353430;
   --header-text-bg-color: #ff8dcb;
   --header-theme-menu-button-color: #353430;
@@ -40,8 +41,6 @@
   --article-text-link-fv-color: #353430;
   --footer-title-color: #ffc2e6;
   --footer-title-shadow-color: #ff0070;
-  --color-decorated-zone: #353430;
-  --color-header-theme-menu-button-focus-visible-box-shadow: #ff8dcb;
 }
 
 .theme-light .rec_symbol {

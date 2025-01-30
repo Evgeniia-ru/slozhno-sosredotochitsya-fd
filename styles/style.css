@@ -210,15 +210,11 @@
 
 .section__images {
   display: grid;
-  padding-block-start: var(--gap-s);
   gap: var(--gap-s);
 }
 
 .section__images-item {
-  display: block;
-  object-fit: cover;
-  inline-size: 100%;
-  block-size: 100%;
+  width: 100%;
 }
 
 /*ПОДВАЛ*/
