@@ -16,6 +16,7 @@
     --article-text-link-shadow-color: #ff8dcb;
     --article-text-link-fv-color: #353430;
     --footer-title-color: #ffc2e6;
+    --footer-title-shadow-color: #ff8dcb;
   }
 
   .rec_symbol {
@@ -40,7 +41,8 @@
   --article-text-link-shadow-color: #ff8dcb;
   --article-text-link-fv-color: #353430;
   --footer-title-color: #ffc2e6;
-  --footer-title-shadow-color: #ff0070;
+  --footer-title-shadow-color: #ff8dcb;
+  --footer-title-shadow-big-color: #ff0070;
 }
 
 .theme-light .rec_symbol {
